@@ -1,6 +1,6 @@
 {
   "name": "@rustjn/rust-ai",
-  "version": "1.0.80",
+  "version": "1.0.81",
   "description": "Description for rust-ai",
   "main": "src/index.js",
   "scripts": {
